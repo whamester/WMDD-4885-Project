@@ -74,7 +74,7 @@ const SearchBar = ({ categories }) => {
           class="btn btn-primary btn-report-hazard">
           Report Hazard
           <span class="btn__icon">
-            <i class="icon-arrow-right"></i>
+            <i class="icon-add-pin"></i>
           </span>
         </button>
       </div>

@@ -202,6 +202,10 @@
   width: 100%;
 }
 
+.btn-report-hazard:hover {
+  box-shadow: none;
+}
+
 @media only screen and (min-width: 768px) {
   .sb {
     top: 90px;
